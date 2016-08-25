@@ -8,4 +8,5 @@ void display(uint32_t result)
 	printf("Result: %lu", result);
 	printf("Patch modified something example");
 	printf("2Patch example");
+	printf("3Patch example");
 }
